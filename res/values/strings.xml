@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exchange rate of Bitcoin</string>
+    <string name="app_label">Bitcoin:USD exchange rate</string>
+    <string name="buy">Buy:</string>
+    <string name="sell">Sell:</string>
+    <string name="loading">Loading</string>
+    <string name="err_connect">Connect error</string>
+</resources>

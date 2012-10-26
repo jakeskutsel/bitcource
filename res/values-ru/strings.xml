@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Курс обмена Bitcoin</string>
+    <string name="app_label">Курс обмена Bitcoin:USD</string>
+    <string name="buy">Покупка:</string>
+    <string name="sell">Продажа:</string>    
+    <string name="loading">Загрузка</string>
+    <string name="err_connect">Ошибка соединения</string>    
+</resources>
